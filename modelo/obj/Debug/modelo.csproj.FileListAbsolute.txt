@@ -1,0 +1,2 @@
+C:\Users\meliz\source\repos\Asp_desarrollo\modelo\obj\Debug\modelo.csproj.AssemblyReference.cache
+C:\Users\meliz\source\repos\Asp_desarrollo\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
